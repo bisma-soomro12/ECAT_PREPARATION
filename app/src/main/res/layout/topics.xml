@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@drawable/background_section"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:id="@+id/recycle_topic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:layout_margin="2dp"
+        android:text="Title"
+        android:textColor="@color/backBlue"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/recycle_topic_dis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:layout_margin="2dp"
+        android:text="Title"
+        android:textColor="@color/backBlue"
+        android:textSize="20sp"
+        />
+</LinearLayout>

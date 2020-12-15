@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ECAT PREPARATION</string>
+    <string name="signin_underline"> <u>not have account? sign up here!</u> </string>
+</resources>
